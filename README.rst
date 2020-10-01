@@ -64,13 +64,13 @@ Installation
 You don't need to download the GIT version of the code as ``colour`` is
 available on the PyPI. So you should be able to run::
 
-    pip install colour
+   # pip install colour #
 
 If you have downloaded the GIT sources, then you could add the ``colour.py``
 directly to one of your ``site-packages`` (thanks to a symlink). Or install
 the current version via traditional::
 
-    python setup.py install
+    # python setup.py install #
 
 And if you don't have the GIT sources but would like to get the latest
 master or branch from github, you could also::
